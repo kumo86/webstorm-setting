@@ -1,0 +1,36 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State />
+              <State>
+                <id>General</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>Angular</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="terminal" />
+      </component>
+      <component name="SvnConfiguration">
+        <configuration>C:\Users\ubuntu\AppData\Roaming\Subversion</configuration>
+      </component>
+      <component name="VagrantProjectSettings">
+        <option name="instanceFolder" value="" />
+        <option name="provider" value="" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
